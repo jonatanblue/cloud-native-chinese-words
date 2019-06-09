@@ -6,6 +6,6 @@ Technical terms and words translated to Chinese.
 | ------- | ----|
 | container | ? |
 | high availability | ? |
-| kernel | ? |
+| kernel | 内核 |
 | microservice | 微服务 |
 
