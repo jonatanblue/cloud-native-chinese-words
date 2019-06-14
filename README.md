@@ -14,7 +14,7 @@ Technical terms and words translated to Chinese.
 | deep-dive | 深入剖析 |
 | democratization | 民主化 |
 | fault tolerance | 容错性 |
-| high availability | ? |
+| high availability | 高可用性 |
 | high-impact changes | 重大变更 |
 | hybrid cloud | 混合云 |
 | immutable infrastructure | 不可变基础设施 |
@@ -27,7 +27,7 @@ Technical terms and words translated to Chinese.
 | microservice | 微服务 |
 | network | 网络 |
 | observability | 可观测性 |
-| observable | 便于观察 |
+| observable | 可观察的 |
 | open source ecosystem | 开源生态系统 |
 | persistent volume | 持久化数据卷 |
 | predictable | 可预测 |
